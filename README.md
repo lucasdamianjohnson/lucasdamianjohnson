@@ -28,8 +28,17 @@ However, I have been programming since I was very young. I started with books on
 - Babylon
 
 # Interest
+- System Administration
 - Web Development
+- Custom or Enterprise CMS
 - Databases
 - Video Game Programming
 - Desktop App Development 
+
+# Stuff I Want To Learn More About
+- Lua
+- Docker
+- CLI Development
+- Go
+- C++
 
