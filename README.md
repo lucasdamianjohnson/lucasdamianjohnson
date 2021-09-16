@@ -46,3 +46,11 @@ Visit My Portfolio Site
 - Go
 - C++
 
+# Stuff I Love
+- Creating Type Definitions
+- Interacting with MySQL databases
+- Developing custom CLIs to automate task
+- Creating and refining helper functions and tools 
+- Creating modular code that is eaisly expandable 
+- Thinking about complex systems and working towards making a change or improving the system.
+
