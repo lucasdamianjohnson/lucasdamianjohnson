@@ -30,6 +30,8 @@ Visit My Portfolio Site
 - Angular
 - Electron
 - Babylon
+- Node.Js
+- WordPress
 
 # Interest
 - System Administration
@@ -45,6 +47,8 @@ Visit My Portfolio Site
 - CLI Development
 - Go
 - C++
+- Next.Js
+- AWS
 
 # Stuff I Love
 - Creating Type Definitions
