@@ -17,7 +17,7 @@ I am currently working on a video game called Infinite Realm Runner.
 I got my start in the professional feild by working as a web programmer at my university. 
 However, I have been programming since I was very young. I started with books on BASIC and Java.
 
-<a href="https://lukejohnson.media/">
+<a href="https://portfolio.lucasdamianjohnson.dev/">
 Visit My Portfolio Site
 </a>
 
@@ -27,9 +27,9 @@ Visit My Portfolio Site
 - JavaScript
 
 # Tech and Frameworks I Use
-- Angular
+- React
 - Electron
-- Babylon
+- Babylon.Js
 - Node.Js
 - WordPress
 
