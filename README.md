@@ -12,10 +12,7 @@
 
 # Hello my name is Luke, 
 
-I am the creator of Divien Star. I work as a full stack developer. 
-I am currently working on a video game called Infinite Realm Runner. 
-I got my start in the professional feild by working as a web programmer at my university. 
-However, I have been programming since I was very young. I started with books on BASIC and Java.
+I am the creator of Divien Star. 
 
 <a href="https://portfolio.lucasdamianjohnson.dev/">
 Visit My Portfolio Site
@@ -26,35 +23,5 @@ Visit My Portfolio Site
 - PHP
 - JavaScript
 
-# Tech and Frameworks I Use
-- React
-- Electron
-- Babylon.Js
-- Node.Js
-- WordPress
 
-# Interest
-- System Administration
-- Web Development
-- Custom or Enterprise CMS
-- Databases
-- Video Game Programming
-- Desktop App Development 
-
-# Stuff I Want To Learn More About
-- Lua
-- Docker
-- CLI Development
-- Go
-- C++
-- Next.Js
-- AWS
-
-# Stuff I Love
-- Creating Type Definitions
-- Interacting with MySQL databases
-- Developing custom CLIs to automate task
-- Creating and refining helper functions and tools 
-- Creating modular code that is eaisly expandable 
-- Thinking about complex systems and working towards making a change or improving the system.
 
