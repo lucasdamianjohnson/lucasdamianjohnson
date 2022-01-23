@@ -12,11 +12,11 @@
 
 # Hello my name is Luke, 
 
-I am the creator of Divien Star. 
+I am the creator of Divine Star. 
 
-<a href="https://portfolio.lucasdamianjohnson.dev/">
-Visit My Portfolio Site
-</a>
+
+[Visit My Portfolio Site](https://portfolio.lucasdamianjohnson.dev/)
+
 
 # Languages I Use
 - TypeScript
