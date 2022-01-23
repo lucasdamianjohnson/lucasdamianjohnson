@@ -18,10 +18,10 @@ I am the creator of Divine Star.
 [Visit My Portfolio Site](https://portfolio.lucasdamianjohnson.dev/)
 
 
-# Languages I Use
-- TypeScript
-- PHP
-- JavaScript
+# Current Projects
+- [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine)
+- [Divine Star Commander](https://github.com/Divine-Star-Software/DivineStarCommander)
+- [DSPM](https://github.com/Divine-Star-Software/DivineStarProjectManager)
 
 
 
