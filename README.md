@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://divinestarapparel.com/wp-content/uploads/2021/02/logo-small.png"/>
+<img src="https://divine-star-software.github.io/DigitalAssets/images/logo-small.png">
 </p>
 
 ---
