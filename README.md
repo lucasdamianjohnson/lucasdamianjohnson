@@ -15,8 +15,7 @@
 
 # Current Projects
 - [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine)
-- [Divine Star Commander](https://github.com/Divine-Star-Software/DivineStarCommander)
-- [Element Tree](https://github.com/Divine-Star-Software/ElementTree)
+- [Crystalline Bliss](https://crystallinebliss.dev/)
 
 
 
