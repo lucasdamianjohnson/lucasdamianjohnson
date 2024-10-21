@@ -9,12 +9,3 @@
 ![palace](https://github.com/user-attachments/assets/a264e27f-adf7-4f40-86ab-111122488f6c)
 
 [Visit My Portfolio Site](https://portfolio.lucasdamianjohnson.dev/)
-
-# Current Projects
-- [Amodx](https://github.com/Amodx/Libraries)
-- [Amodx Elements](https://github.com/Amodx/Elements)
-- [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine)
-- [Crystalline Bliss](https://crystallinebliss.dev/)
-
-
-
