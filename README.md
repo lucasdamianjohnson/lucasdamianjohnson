@@ -1,7 +1,9 @@
 <h1 align="center">
  &#9733; Lucas Johnson &#9733;
 </h1>
+
 ![Untitled Project-00;00;03;22](https://github.com/user-attachments/assets/9ebe62f6-2a0c-4679-813c-ee3ee34a6341)
+
 
 ![Untitled Project-00;00;02;04 2](https://github.com/user-attachments/assets/996b685d-4edc-49b6-86e4-34ca9ed7fea2)
 
